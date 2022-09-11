@@ -1,4 +1,4 @@
-# Banking Project
+# Banking Website Project
 Testing a demo banking website. Create and execute test cases.
 
 ### Project content:
